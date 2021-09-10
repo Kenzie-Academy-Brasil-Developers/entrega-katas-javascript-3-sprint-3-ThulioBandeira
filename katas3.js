@@ -44,7 +44,7 @@ showresults(kata4(),'Contando25RevNegativo')
 
 function kata5() {
     let impar25 = [];
-    for(let i =23; i>-25 ; i--){
+    for(let i =25; i>=-25 ; i--){
         if(i%2==-1||i%2==1){
             impar25.push(i)
         }
